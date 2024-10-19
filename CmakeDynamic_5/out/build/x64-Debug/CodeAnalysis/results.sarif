@@ -1,0 +1,123 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.41.34123.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/home_work_2_10_5.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "b3286e9cb66d079eed923c74e965f9d758e04d0205c68ac3e1e27ff293914f79"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/equilateraltriangle.h"
+          },
+          "hashes": {
+            "sha-256": "3127e3f1ab9bf1fc7e7cff39eca7dcc94bcae4c3aa373874188dac287634609c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/triangle.h"
+          },
+          "hashes": {
+            "sha-256": "97e7e59cf1897a814d6beeff7fb249115133f23a59192e6aafb0e17a379815bb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/figura.h"
+          },
+          "hashes": {
+            "sha-256": "9df8e3441c12f167c2d0b831ae6362e8d99e3954ca928a7733c6294c860790d7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/isoscelestriangle.h"
+          },
+          "hashes": {
+            "sha-256": "616b73f9b3a3fdc94f6f8c98a68d171f866acc9ff9836dc8991f0230e5a9696b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/parallelogram.h"
+          },
+          "hashes": {
+            "sha-256": "c5bacb683efdc5c6d52c56edd839cec0a9d6cc8e0a55baf0faa76949a503c7f4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/quadrilateral.h"
+          },
+          "hashes": {
+            "sha-256": "0aa0eb006f1f62eb7b78a488b0d553d146b02771d57bfa2ff33849ea2ba2cb74"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/rectangle.h"
+          },
+          "hashes": {
+            "sha-256": "08c0c72498d8455af1591cf32f8d569241ca69b7bebc396856213a171acb3bdf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/rhomb.h"
+          },
+          "hashes": {
+            "sha-256": "042af3b163718db14b9005d1dfcbd56482a76d768179690410d1ee8943e86143"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/square.h"
+          },
+          "hashes": {
+            "sha-256": "2beeedbccfeca0c27f72c803fa772e019974146ba25658f8b5db72f8f87a8ba5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/straightriangle.h"
+          },
+          "hashes": {
+            "sha-256": "87572c92086a77dcf1e3d1c58c7516fc5fd91cb5fd604a407473c4711706612f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ариконс user/desktop/visio_2_teil_10/cmakedynamic_5/print_info_1.h"
+          },
+          "hashes": {
+            "sha-256": "181eedfe1c786e3f0a5386a3205244e80fc2f5cb3b137ec1c6208393460910cd"
+          }
+        }
+      ]
+    }
+  ]
+}

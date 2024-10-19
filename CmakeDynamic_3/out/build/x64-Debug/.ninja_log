@@ -1,0 +1,8 @@
+# ninja log v5
+9	347	7510575534441069	build.ninja	3e98defa8b7979b8
+55	1588	7509723084428381	CMakeFiles/LibraryDynamic.dir/Dynamicgoodbye.cpp.obj	e9103a3f17aec966
+12	611	7510561010201964	CMakeFiles/cmake_third.dir/goodbyeClient.cpp.obj	fe650307574110a8
+975	1246	7509723964643437	LibraryDynamic.dll	79847e99fb1377cd
+975	1246	7509723964643437	LibraryDynamic.lib	79847e99fb1377cd
+19	974	7509723964643437	CMakeFiles/LibraryDynamic.dir/DynamicGoodbye.cpp.obj	4dd7a8cd93cc242d
+613	877	7510561011972350	cmake_third.exe	48679c504df4705f

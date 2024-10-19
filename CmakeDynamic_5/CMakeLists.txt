@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(my_fourth_cmake_project)
+set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
+add_library(LibraryDynamic_4 SHARED "print.h" "print.cpp" equilateralTriangle.h equilateralTriangle.cpp isoscelesTriangle.h isoscelesTriangle.cpp figura.h figura.cpp parallelogram.h parallelogram.cpp quadrilateral.h quadrilateral.cpp rectangle.h rectangle.cpp rhomb.h rhomb.cpp square.h square.cpp straighTriangle.h straighTriangle.cpp triangle.h triangle.cpp)
+add_executable(cmake_fourth Home_WORK_2_10_5.cpp)
+target_link_libraries(cmake_fourth LibraryDynamic_4)

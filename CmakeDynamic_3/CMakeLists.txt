@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(my_third_cmake_project)
+add_library(LibraryDynamic SHARED "DynamicGoodbye.h" "DynamicGoodbye.cpp")
+add_executable(cmake_third goodbyeClient.cpp)
+target_link_libraries(cmake_third LibraryDynamic)
